@@ -1,6 +1,6 @@
 # news_scrape
 
-news_scrape is a Python library for my first virtual environments challenge.
+news_scrape is a repository for my first virtual environments challenge.
 
 ## Intallation
 See libraries in requirements.txt.
